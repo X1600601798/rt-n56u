@@ -1,7 +1,7 @@
 /* MEIZU MINI R13P */
 
-#define BOARD_PID		"FAST-"
-#define BOARD_NAME		"FAST-"
+#define BOARD_PID		"FAC"
+#define BOARD_NAME		"FAC"
 #define BOARD_DESC		"FAST FAC750R Wireless Router"
 #define BOARD_VENDOR_NAME	"FAST Technology"
 #define BOARD_VENDOR_URL	"https://www.fastcom.com.cn/"
