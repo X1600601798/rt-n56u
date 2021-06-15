@@ -1,11 +1,11 @@
 /* MEIZU MINI R13P */
 
-#define BOARD_PID		"MZ-R13P"
-#define BOARD_NAME		"MZ-R13P"
-#define BOARD_DESC		"MEIZU MINI R13P Wireless Router"
-#define BOARD_VENDOR_NAME	"Meizu Technology"
-#define BOARD_VENDOR_URL	"https://www.meizu.com/"
-#define BOARD_MODEL_URL		"https://www.meizu.com/"
+#define BOARD_PID		"FAST-"
+#define BOARD_NAME		"FAST-"
+#define BOARD_DESC		"FAST FAC750R Wireless Router"
+#define BOARD_VENDOR_NAME	"FAST Technology"
+#define BOARD_VENDOR_URL	"https://www.fastcom.com.cn/"
+#define BOARD_MODEL_URL		"https://www.fastcom.com.cn/"
 #define BOARD_BOOT_TIME		20
 #define BOARD_FLASH_TIME	120
 #undef BOARD_GPIO_BTN_RESET
