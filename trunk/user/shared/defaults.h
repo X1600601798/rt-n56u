@@ -41,8 +41,8 @@
 #define DEF_WLAN_5G_SSID	BOARD_PID "750R-5G"
 #define DEF_WLAN_2G_GSSID	BOARD_PID "GUEST-2.4G"
 #define DEF_WLAN_5G_GSSID	BOARD_PID "GUEST-5G"
-#define DEF_WLAN_2G_PSK		" "  
-#define DEF_WLAN_5G_PSK	  " "
+#define DEF_WLAN_2G_PSK		  
+#define DEF_WLAN_5G_PSK	  
 
 #define DEF_ROOT_PASSWORD	"admin"
 #define DEF_SMB_WORKGROUP	"WORKGROUP"
